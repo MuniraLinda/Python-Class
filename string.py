@@ -14,7 +14,7 @@ gender = "female"
 print("My age is {} and I am a {}.".format(age,gender))
 
 #4. using the f method,print statement of "My {age} is and I am a {gender}.
-print(f"My age is {age} and I am a {gender}.")
+print(f"My age is {age}, and I am a {gender}")
 
 #Get the chraracter position for 2 in "Hi Ladies"
 
