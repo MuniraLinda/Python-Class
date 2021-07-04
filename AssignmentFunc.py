@@ -103,8 +103,9 @@ def for_loop(range):
     for x in range(6):
         print (x)
 
-
 for_loop(range)
+
+#Prints out numbers from 0 to 5
 
 print()
 
