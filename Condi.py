@@ -19,6 +19,7 @@ print()
 #3.Write a program that prints yes if a is equal to b otherwise print b
 a = 10
 b = 10
+b = 5
 if a == b:
     print("Yes")
 else:
