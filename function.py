@@ -54,7 +54,7 @@ def for_loop(food):
     for x in food:
         print(x)
 
-fruits = ['peper', 'onion', 'sardine']
+fruits = ['pepper', 'onion', 'sardine']
 ingre = ['mango','apple']
 print(for_loop(fruits))
 print(for_loop(ingre))
