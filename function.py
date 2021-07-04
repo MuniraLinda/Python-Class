@@ -51,4 +51,29 @@ def cout(Country = "Ghana"):
 cout()
 
 def for_loop(food):
+    for x in food:
+        print(x)
+
+fruits = ['peper', 'onion', 'sardine']
+ingre = ['mango','apple']
+print(for_loop(fruits))
+print(for_loop(ingre))
+
+def for_loop():
+    a = 4
+    b = 4
+    if a > b:
+        print("Yes a is greater than b")
+    else:
+        print("No a is not graeter than b")
+
+for_loop()
+
+def ret(x):
+    return 5 * x
+
+print(ret(4))
+
+
+
 
